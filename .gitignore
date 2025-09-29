@@ -210,3 +210,4 @@ ventes.csv
 *.duckdb
 brief.txt
 **/*/example
+logs
