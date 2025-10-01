@@ -1,0 +1,6 @@
+ventes:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ventes_clean.duckdb
